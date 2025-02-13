@@ -69,7 +69,7 @@ if navbar == 'Inicio':
   background_image = """
       <style>
       .stApp {
-          background-image: url("http://www.ucv.ve/fileadmin/templates/core/img/img_carrusel/1_UCV_CIUDAD_UNIVERSITARIA_DE_CARACAS_F_JUAN_PEREZ_HERNANDEZ.png");
+          background-image: url("https://eldiario.com/wp-content/uploads/2023/01/32-Labores-de-restauracion-del-Aula-Magna-de-la-UCV-El-Diario-Jose-Daniel-Ramos.jpg.webp");
           background-size: cover;
       }
       </style>
